@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        {
+            "folder": "customNodePlugin",
+            "fileName": "custom-node-plugin"
+        }
+    ]
+}
